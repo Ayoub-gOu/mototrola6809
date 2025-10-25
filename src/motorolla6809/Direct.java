@@ -32,7 +32,7 @@ public class Direct {
 		{JOptionPane.showMessageDialog(
                 null,
                 "Erreur : Votre programme comporte des erreurs",
-                "Valeur invalide",
+                "Valeur invalidddddddde",
                 JOptionPane.ERROR_MESSAGE
             );}
 		else
