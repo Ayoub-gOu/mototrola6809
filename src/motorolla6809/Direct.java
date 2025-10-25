@@ -53,7 +53,7 @@ public class Direct {
 		if(!estValidValeur(Operande))
 		{JOptionPane.showMessageDialog(
                 null,
-                "Erreur : Votre programme comporte des erreurs",
+                "Erreur : Votre programme compooooooooooorte des erreurs",
                 "Valeur invalide",
                 JOptionPane.ERROR_MESSAGE
             );}
